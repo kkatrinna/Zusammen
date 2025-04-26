@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Zusammen</string>
+    <string name="signed">Зарегистрироваться</string>
+    <string name="already_have_an_account_login">Войти в аккаунт</string>
+    <string name="confirm_password">Подтвердите пароль</string>
+    <string name="password">Пароль</string>
+    <string name="email">Email</string>
+    <string name="reg">Регистрация</string>
+</resources>

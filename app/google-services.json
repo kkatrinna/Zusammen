@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719174152868",
+    "project_id": "zusammen-32eda",
+    "storage_bucket": "zusammen-32eda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719174152868:android:0e0b6b1d8c297d80592c31",
+        "android_client_info": {
+          "package_name": "com.example.zusammen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoX5ApZKLiavqQXTbI2rwl1bgvEwbP8nM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
